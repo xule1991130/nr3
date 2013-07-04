@@ -1,4 +1,0 @@
-[bug0]
-select 'a' name,
-     (select 1 from dual) age
-from dual
